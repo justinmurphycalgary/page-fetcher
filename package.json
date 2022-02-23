@@ -1,0 +1,22 @@
+{
+  "name": "pagefetcher",
+  "version": "1.0.0",
+  "description": "created by justin murphy on 2/23/2022",
+  "main": "fetcher.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justinmurphycalgary/page-fetcher.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justinmurphycalgary/page-fetcher/issues"
+  },
+  "homepage": "https://github.com/justinmurphycalgary/page-fetcher#readme",
+  "dependencies": {
+    "request": "^2.88.2"
+  }
+}
